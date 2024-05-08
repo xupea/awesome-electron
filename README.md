@@ -19,3 +19,6 @@
 
 ## Crash & Monitor
 - [sentry electron](https://docs.sentry.io/platforms/javascript/guides/electron/) - Sentry Electron can capture JavaScript exceptions in the main and renderer processes, as well as collect native crash reports (Minidumps).
+
+## 埋点
+- [Aptabase](https://aptabase.com/for-electron) - Analytics for apps. Open source, privacy-friendly, and simple.
