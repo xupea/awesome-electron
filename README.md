@@ -9,3 +9,7 @@
 ## 打包，发布和更新
 - [electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box.
 - [electron-forge](https://github.com/electron/forge) - A complete tool for building and publishing Electron applications.
+
+## 脚手架
+- [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
+- [electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite
