@@ -1,5 +1,8 @@
 # awesome-electron
 
+## 组件（Components）
+- [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
+
 ## 数据库（Database）
 - [better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [node-sqlite3](https://github.com/TryGhost/node-sqlite3) - Asynchronous, non-blocking SQLite3 bindings for Node.js.
