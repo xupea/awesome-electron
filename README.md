@@ -16,3 +16,6 @@
 ## 脚手架
 - [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite
+
+## Crash & Monitor
+- [sentry electron](https://docs.sentry.io/platforms/javascript/guides/electron/) - Sentry Electron can capture JavaScript exceptions in the main and renderer processes, as well as collect native crash reports (Minidumps).
